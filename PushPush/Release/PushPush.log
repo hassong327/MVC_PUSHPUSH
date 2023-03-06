@@ -1,0 +1,25 @@
+﻿  PushPush.cpp
+C:\Users\이송하\Desktop\PushPush\PushPush\Consola.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\이송하\Desktop\PushPush\PushPush\Sound.h(3,10): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다.
+C:\Users\이송하\Desktop\PushPush\PushPush\Sound.h(4,10): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다.
+C:\Users\이송하\Desktop\PushPush\PushPush\Sound.h(17,1): error C2440: '=': 'const char [10]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+C:\Users\이송하\Desktop\PushPush\PushPush\Sound.h(17,36): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+C:\Users\이송하\Desktop\PushPush\PushPush\Sound.h(18,1): error C2440: '=': 'const char [10]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+C:\Users\이송하\Desktop\PushPush\PushPush\Sound.h(18,35): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+C:\Users\이송하\Desktop\PushPush\PushPush\Sound.h(24,1): error C2440: '=': 'const char [9]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+C:\Users\이송하\Desktop\PushPush\PushPush\Sound.h(24,42): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+C:\Users\이송하\Desktop\PushPush\PushPush\Sound.h(25,1): error C2440: '=': 'const char [10]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+C:\Users\이송하\Desktop\PushPush\PushPush\Sound.h(25,41): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+C:\Users\이송하\Desktop\PushPush\PushPush\Controller.h(8,10): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다.
+C:\Users\이송하\Desktop\PushPush\PushPush\Status.h(9,1): warning C4005: 'MAP_HEIGHT': 매크로 재정의
+C:\Users\이송하\Desktop\PushPush\PushPush\View.h(10): message : 'MAP_HEIGHT'의 이전 정의를 참조하십시오.
+C:\Users\이송하\Desktop\PushPush\PushPush\Controller.h(15,1): warning C4005: 'M_ENTERKEY': 매크로 재정의
+C:\Users\이송하\Desktop\PushPush\PushPush\View.h(21): message : 'M_ENTERKEY'의 이전 정의를 참조하십시오.
+C:\Users\이송하\Desktop\PushPush\PushPush\Controller.h(18,1): warning C4005: 'MAP_HEIGHT': 매크로 재정의
+C:\Users\이송하\Desktop\PushPush\PushPush\Status.h(9): message : 'MAP_HEIGHT'의 이전 정의를 참조하십시오.
+C:\Users\이송하\Desktop\PushPush\PushPush\Controller.h(19,1): warning C4005: 'MAP_WIDTH': 매크로 재정의
+C:\Users\이송하\Desktop\PushPush\PushPush\View.h(11): message : 'MAP_WIDTH'의 이전 정의를 참조하십시오.
+C:\Users\이송하\Desktop\PushPush\PushPush\Controller.h(22,1): warning C4005: 'MAP_X2': 매크로 재정의
+C:\Users\이송하\Desktop\PushPush\PushPush\View.h(14): message : 'MAP_X2'의 이전 정의를 참조하십시오.
+C:\Users\이송하\Desktop\PushPush\PushPush\Controller.h(23,1): warning C4005: 'MAP_Y2': 매크로 재정의
+C:\Users\이송하\Desktop\PushPush\PushPush\View.h(15): message : 'MAP_Y2'의 이전 정의를 참조하십시오.
